@@ -583,49 +583,49 @@ const assets = {
   "/favicon.ico": {
     "type": "image/vnd.microsoft.icon",
     "etag": "\"10be-n8egyE9tcb7sKGr/pYCaQ4uWqxI\"",
-    "mtime": "2023-10-12T09:04:39.667Z",
+    "mtime": "2023-10-12T09:11:18.298Z",
     "size": 4286,
     "path": "../../.output/public/favicon.ico"
   },
   "/_nuxt/entry.3c4ebcd6.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"2f5d-IUbnwWIn6QsALxMnWLcqWOVujSU\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.294Z",
     "size": 12125,
     "path": "../../.output/public/_nuxt/entry.3c4ebcd6.css"
   },
   "/_nuxt/entry.96a400c1.js": {
     "type": "application/javascript",
     "etag": "\"30a17-2/X6J5cg9RhCQqhNKEhy4dacNAU\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.295Z",
     "size": 199191,
     "path": "../../.output/public/_nuxt/entry.96a400c1.js"
   },
   "/_nuxt/error-404.32415cff.js": {
     "type": "application/javascript",
     "etag": "\"1862-wvRxc5kWgPC6qKJ2NfQi6G/FMPA\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.295Z",
     "size": 6242,
     "path": "../../.output/public/_nuxt/error-404.32415cff.js"
   },
   "/_nuxt/error-404.7fc72018.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"e2e-iNt1cqPQ0WDudfCTZVQd31BeRGs\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.294Z",
     "size": 3630,
     "path": "../../.output/public/_nuxt/error-404.7fc72018.css"
   },
   "/_nuxt/error-500.358afda2.js": {
     "type": "application/javascript",
     "etag": "\"756-V5pG2/5DW08aNSRqYTWQBQApzrM\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.295Z",
     "size": 1878,
     "path": "../../.output/public/_nuxt/error-500.358afda2.js"
   },
   "/_nuxt/error-500.c5df6088.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"79e-ByRo+49BgcevWdRjJy3CMx2IA5k\"",
-    "mtime": "2023-10-12T09:04:39.663Z",
+    "mtime": "2023-10-12T09:11:18.295Z",
     "size": 1950,
     "path": "../../.output/public/_nuxt/error-500.c5df6088.css"
   }

@@ -69,7 +69,7 @@ jobs:
         with:
           path: ./.output/public
 
-  # Deployment job
+  # Deployment jobe
   deploy:
     environment:
       name: github-pages
